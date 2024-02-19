@@ -1,0 +1,14 @@
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\bin\Debug\net8.0\Project1.exe
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\bin\Debug\net8.0\Project1.deps.json
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\bin\Debug\net8.0\Project1.runtimeconfig.json
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\bin\Debug\net8.0\Project1.dll
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\bin\Debug\net8.0\Project1.pdb
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.AssemblyInfoInputs.cache
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.AssemblyInfo.cs
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.csproj.CoreCompileInputs.cache
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.dll
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\refint\Project1.dll
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.pdb
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\Project1.genruntimeconfig.cache
+c:\Users\mmich\OneDrive\Documentos\old\Dev\Projetos\C#\Desafio\Hi Platform\Project1\obj\Debug\net8.0\ref\Project1.dll
